@@ -44,4 +44,9 @@ What does Multiple servers mean? -
     Sometimes backends are made up of multiple servers, for example one server for posts and comments and another for user authentication and registration.
     The client shouldnt be bothered about how the backend is organised
 
-    
+
+
+Steps:
+1) Initial Vscode setup 
+2) linting ,formating and sorting imports with _ruff_
+3) 
