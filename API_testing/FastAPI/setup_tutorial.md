@@ -9,16 +9,10 @@ Git (optional).
 Quick setup (copy & run)
 
 Create and activate a virtual environment
-Unix / macOS
-
-python -m venv .venv
-source .venv/bin/activate
 
 
-Windows (PowerShell)
-
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
+-> python -m venv .venv
+-> .\.venv\Scripts\Activate.ps1
 
 
 Create requirements.txt (top-level) with:
